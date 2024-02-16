@@ -27,6 +27,6 @@ A Calculadora é um projeto desenvolvido em HTML, CSS e JavaScript que oferece f
 ## Autor
 Angelo Hervis
 - GitHub: [AngeloHervis](https://github.com/AngeloHervis)
-- LinkedIn: [Angelo Hervis](https://www.linkedin.com/in/angelohervis/)
+- LinkedIn: [Angelo Hervis](https://www.linkedin.com/in/angelo-hervis/)
 
 
